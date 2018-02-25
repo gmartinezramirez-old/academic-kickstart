@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = false
   email = "gonzalo.martinez.ra@gmail.com"
   address = "Santiago, Chile"
   office_hours = "Email for appointment"
-  phone = "(+56) 9-96112973"
+  phone = "(+56) 9 96112973"
   skype = ""
   telegram = ""
 
@@ -217,12 +217,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:gonzalo.martinez.ra@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//linkedin.com/in/gonzalo-martinez/"
 
   [[params.social]]
     icon = "google-scholar"
