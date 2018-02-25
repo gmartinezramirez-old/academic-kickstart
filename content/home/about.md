@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "MSc in Computer Science"
   institution = "Universidad de Santiago de Chile"
-  year = 2012
+  year = 2018
 
 [[education.courses]]
   course = "Computer Science Engineer"
   institution = "Universidad de Santiago de Chile"
-  year = 2009
+  year = 2018
 
 [[education.courses]]
   course = "BS in Engineering"
   institution = "Universidad de Santiago de Chile"
-  year = 2008
+  year = 2015
  
 +++
 
