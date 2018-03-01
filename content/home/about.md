@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Gonzalo Martinez is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Degree in Computer Engineering and Master's in Computer Engineering candidate from the University of Santiago de Chile, with more than 2 years of experience in software development, working with multidisciplinary development and research teams applying agile software development methodologies. Specialized in the construction, training and start-up of models, platforms and pipes of Machine Learning.

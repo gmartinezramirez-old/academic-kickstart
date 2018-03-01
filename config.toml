@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = false
   # Your details.
   name = "Gonzalo Martinez Ramirez"
   #role = "Professor of Artificial Intelligence"
-  role = "Software Engineer"
+  role = "Software Engineer and MSc in Computer Science (c)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -254,12 +254,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Experience"
+  url = "#experience"
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
