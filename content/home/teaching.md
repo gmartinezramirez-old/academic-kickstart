@@ -17,7 +17,7 @@ weight = 60
 
 ## Universidad de Santiago de Chile
  
-Teaching assistant on the following subjects:
+* Teaching assistant on the following subjects:
 * Theory of Computation (2017) (13284)
 * Evolutionary Computation (2016) (13816). Languages: Java.
 * Programming Paradigms (2015-2016) (13007). Languages: C, Java, Scheme.
