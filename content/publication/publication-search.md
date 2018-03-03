@@ -37,11 +37,11 @@ projects = ["example-external-project"]
 # Links (optional).
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1002/pra2.2017.14505401015/abstract;jsessionid=0C972FE03577911DBF20DA84246B71B3.f01t02?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxYzCwnZ9TaSaZUvnlMP7aQ%3D%3D"
 url_preprint = "#"
-url_code = "#"
+url_code = "https://github.com/gmartinezramirez/EyeTribe-Library"
 url_dataset = "#"
 url_project = "#"
 url_slides = "#"
-url_video = "#"
+url_video = "https://youtu.be/gpVwb0-hS4I"
 url_poster = "#"
 url_source = "#"
 
@@ -58,9 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "paper.png"
+caption = "Plataform developed by Gary Fuenzalida."
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
