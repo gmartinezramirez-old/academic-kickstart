@@ -9,7 +9,7 @@ title = "Python compiler for C language"
 summary = "Implementation of a compiler in Python for the C programing language."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "compiler.png"
+image_preview = "projects/compiler.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
